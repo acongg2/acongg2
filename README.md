@@ -13,9 +13,10 @@
 ## 🧙‍♂️ About Me
 
 <div id="header" align="center">
-  <img src="https://drive.google.com/file/d/1BDiWB5LrgSl1tnwwaP91mnjttdlhQzg7/view?usp=sharing"/>
+  <img src="https://user-images.githubusercontent.com/88304216/173566904-73d39825-79c4-47a6-8690-56c1a8c3a3db.jpg"/>
 </div>
 
+####  
 I am a second-year Information System student at Bandung Institute of Technology. Am a highly motivated and adaptable
 person who has completed several different projects in many different environments.
 
@@ -25,9 +26,10 @@ person who has completed several different projects in many different environmen
 - 📫 You can reach me via [Instagram](https://www.instagram.com/acongg2/) or [LinkedIn](https://www.linkedin.com/in/calvincong/)
 - ⚡ Fun fact: Whenever my feet feel cold, my whole body gets cold too ❄
 
-#  
+####  
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠 Languages and Tools: 
+
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
